@@ -1,11 +1,13 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "mapapp",
+  "projectname": "taro-update-10",
   "description": "测试",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,
     "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
     "postcss": false,
     "minified": false
   },
